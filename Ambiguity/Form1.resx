@@ -120,7 +120,7 @@
   <metadata name="wavePlayer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <data name="sinkPin4.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="sinkPin1.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -128,7 +128,7 @@
         d2F2ZVBsYXllcjEL
 </value>
   </data>
-  <data name="statePin6.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="statePin1.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -136,7 +136,7 @@
         d2F2ZVBsYXllcjEL
 </value>
   </data>
-  <data name="sinkPin5.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="sinkPin2.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -144,7 +144,7 @@
         d2F2ZVBsYXllcjEL
 </value>
   </data>
-  <data name="sourcePin2.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="sourcePin1.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -152,7 +152,7 @@
         d2F2ZVBsYXllcjEGBQAAABtGb3JtMS5hdWRpb1RvUmVhbDEuSW5wdXRQaW4L
 </value>
   </data>
-  <data name="statePin7.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="statePin2.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -160,7 +160,7 @@
         d2F2ZVBsYXllcjEL
 </value>
   </data>
-  <data name="statePin8.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="statePin3.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -168,7 +168,7 @@
         d2F2ZVBsYXllcjEL
 </value>
   </data>
-  <data name="scopeChannel2.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="scopeChannel1.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
@@ -176,21 +176,21 @@
         Cw==
 </value>
   </data>
-  <data name="vclPen7.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="vclPen1.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAgAAAAgEAAAAAAAAAAs=
 </value>
   </data>
-  <data name="vclPen8.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="vclPen2.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAgAAAAgEAAAAAAAAAAs=
 </value>
   </data>
-  <data name="pinList4.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="pinList1.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -206,49 +206,49 @@
         DkV4cGxpY2l0SGVpZ2h0AxgBCw==
 </value>
   </data>
-  <data name="scopeLegendView2.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="scopeLegendView1.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAQAAAAgDAAAACw==
 </value>
   </data>
-  <data name="displayTitle2.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="displayTitle1.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAQAAAAgAAAAACw==
 </value>
   </data>
-  <data name="toolBarPosition2.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="toolBarPosition1.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAwAAAAgDAAAAAAAAAAMAAAAL
 </value>
   </data>
-  <data name="vclPen9.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="vclPen3.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAgAAAAgEAAAAAAAAAAs=
 </value>
   </data>
-  <data name="vclPen10.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="vclPen4.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAgAAAAgEAAAAAAAAAAs=
 </value>
   </data>
-  <data name="scopeXAxis2.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="scopeXAxis1.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAwAAAAgAAAAAAAAAAAEAAAAL
 </value>
   </data>
-  <data name="statePin9.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="statePin4.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -256,7 +256,7 @@
         c2NvcGUxCw==
 </value>
   </data>
-  <data name="pinList5.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="pinList2.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -264,28 +264,28 @@
         c2NvcGUxCw==
 </value>
   </data>
-  <data name="vclPen11.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="vclPen5.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAgAAAAgEAAAAAAAAAAs=
 </value>
   </data>
-  <data name="vclPen12.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="vclPen6.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAgAAAAgEAAAAAAAAAAs=
 </value>
   </data>
-  <data name="scopeYAxis2.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="scopeYAxis1.InternalData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABFWY2wu
         VmNsQmluYXJ5RGF0YQEAAAAFRW51bXMHCAIAAAAJAwAAAA8DAAAAAgAAAAgAAAAAAgAAAAs=
 </value>
   </data>
-  <data name="statePin10.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="statePin5.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -296,7 +296,7 @@
   <metadata name="audioToReal1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>136, 17</value>
   </metadata>
-  <data name="sinkPin6.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="sinkPin3.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
@@ -304,12 +304,40 @@
         YXVkaW9Ub1JlYWwxBgUAAAAbRm9ybTEud2F2ZVBsYXllcjEuT3V0cHV0UGluCw==
 </value>
   </data>
-  <data name="pinList6.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="pinList3.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
-        V2lyZS5QaW5Db25uZWN0aW9ucwEAAAAERGF0YQYCAAAACQMAAAARAwAAAAIAAAAGBAAAABNARm9ybTEu
-        YXVkaW9Ub1JlYWwxBgUAAAAYRm9ybTEuc2NvcGUxLklucHV0UGlucy4wCw==
+        V2lyZS5QaW5Db25uZWN0aW9ucwEAAAAERGF0YQYCAAAACQMAAAARAwAAAAMAAAAGBAAAABNARm9ybTEu
+        YXVkaW9Ub1JlYWwxBgUAAAAYRm9ybTEuc2NvcGUxLklucHV0UGlucy4wBgYAAAAdRm9ybTEuZ2VuZXJp
+        Y0ZpbHRlcjEuSW5wdXRQaW4L
+</value>
+  </data>
+  <metadata name="genericFilter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>262, 17</value>
+  </metadata>
+  <data name="sinkPin4.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
+        V2lyZS5QaW5Db25uZWN0aW9ucwEAAAAERGF0YQYCAAAACQMAAAARAwAAAAEAAAAGBAAAABVARm9ybTEu
+        Z2VuZXJpY0ZpbHRlcjEL
+</value>
+  </data>
+  <data name="sinkPin5.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
+        V2lyZS5QaW5Db25uZWN0aW9ucwEAAAAERGF0YQYCAAAACQMAAAARAwAAAAIAAAAGBAAAABVARm9ybTEu
+        Z2VuZXJpY0ZpbHRlcjEGBQAAAB9Gb3JtMS5hdWRpb1RvUmVhbDEuT3V0cHV0UGlucy4wCw==
+</value>
+  </data>
+  <data name="sourcePin2.ConnectionData" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdNaXRvdi5TaWduYWxMYWJCYXNpYywgVmVyc2lvbj01LjAuMy4x
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTBiNDRlMjg1ODJjNTIyY2YFAQAAABdPcGVu
+        V2lyZS5QaW5Db25uZWN0aW9ucwEAAAAERGF0YQYCAAAACQMAAAARAwAAAAEAAAAGBAAAABVARm9ybTEu
+        Z2VuZXJpY0ZpbHRlcjEL
 </value>
   </data>
 </root>
